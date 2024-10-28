@@ -29,7 +29,14 @@ This application is based on clean architecture and uses the MVVM methodology. U
 ### 📷 Previews (Dark theme)
 <p align="center">
 <img src="https://github.com/user-attachments/assets/b88ae855-7633-4e4a-8cbe-1825336acd4c" alt="drawing" width="272" />
-<img src="https://github.com/user-attachments/assets/78446df2-3b36-42ad-9a70-4b3350994b6b" alt="drawing" width="272" />
-<img src="https://github.com/user-attachments/assets/e946961c-d70f-40e2-b78b-62a66d56d907" alt="drawing" width="272" />
+<img src="https://github.com/user-attachments/assets/e4e08dee-6e1e-40ce-889e-10ce72826246" alt="drawing" width="272" />
+<img src="https://github.com/user-attachments/assets/a9883a4a-49f5-45ad-bc47-d1d0360548c9" alt="drawing" width="272" />
+</p>
+
+### 📷 Previews (Light theme)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e75e006c-82c5-4346-a478-0b56986a6e44" alt="drawing" width="272" />
+<img src="https://github.com/user-attachments/assets/58d7fad7-1dd2-4431-b4a9-9a5de0db3fa3" alt="drawing" width="272" />
+<img src="https://github.com/user-attachments/assets/a6df7283-03fb-4e5c-b286-30a2a04cf5f8" alt="drawing" width="272" />
 </p>
 
